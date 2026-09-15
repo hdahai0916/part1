@@ -10,6 +10,6 @@
 
 ----
  ## ans4
- ![ans4](.\image\1.png)
+ ![ans4](./image/1.png)
 
  
