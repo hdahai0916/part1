@@ -8,6 +8,13 @@
             "type": "java",
             "name": "HelloWorld",
             "request": "launch",
+            "mainClass": "task4.com.example.HelloWorld",
+            "projectName": "glimmer_94427fd8"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
             "mainClass": "task3.HelloWorld",
             "projectName": "glimmer_94427fd8"
         },
