@@ -12,6 +12,6 @@
 
  ## ans4
  出现了HelloJava.java和HelloJava.class两个文件。
- * HelloJava.java是我自己用java语言写的程序，通过javac编译后能生成HelloJava.class文件。
- * HelloJava.class能被jvm识别并执行，最终输出结果。
+ * HelloJava.java是我自己用java语言写的程序，被javac编译为HelloJava.class字节码文件。
+ * 通过java命令启动jvm，jvm加载并执行HelloJava.class，最终输出结果。
  ![ans4](./image/1.png)
